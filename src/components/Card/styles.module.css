@@ -1,0 +1,14 @@
+.card {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid blueviolet;
+    font-size: 12px;
+    color: rgb(17, 9, 7);
+}
+
+.cardTitulo {
+    color: blue;
+    padding-bottom: 10px;
+    font-size: 18px;
+}
